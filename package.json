@@ -1,0 +1,10 @@
+{
+  "name": "ccw-or-cw",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
